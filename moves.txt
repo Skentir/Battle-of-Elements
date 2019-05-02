@@ -1,0 +1,83 @@
+4
+One punch
+Hits your enemies with an intense force that violates the laws of physics.
+
+1
+25 3
+160 180
+4
+Dirt sling
+Throw some dirt infused with poison
+
+2
+10 1
+30 60
+2
+Flamethrower
+Burn down the freaks freaking you out
+
+4
+20 2
+100 110
+2
+Hellfire
+Scorches your enemies with the heat coming from the depths of the earth
+
+5
+30 3
+150 170
+2
+The butane lighter
+This magical lighter will ignite your enemies and deal them a small amount of damage.
+
+6
+10 1
+30 50
+1
+Splash splash
+One eggplant emoji and three water splash emojis.
+
+7
+10 1
+50 100
+1
+Dehydration
+Deprives your enemies of their water content, turning them into dry corpses
+
+9
+30 3
+170 180
+3
+Polar vortex
+Use the power of wind to bring hypothermia to your enemies
+
+10
+25 2
+120 150
+3
+Ultra vacuum
+Deprive your enemies of the air they need to sustain their biological functions
+
+11
+30 3
+170 180
+3
+Halitosis
+Bad breath will stun your enemies
+
+12
+10 1
+50 70
+4
+The boulder
+Crush your enemies with tons of pure rock
+
+13
+20 2
+130 150
+1
+Coffee
+Keeps you awake and takes your enemies' energy
+14
+20 2
+110 130

@@ -1,0 +1,28 @@
+4
+Kirsten
+SJ Study Hall
+1
+400
+40
+400 40
+2
+Life
+Earth
+2
+500
+40
+264 1
+3
+John De La Salle
+Taft Avenue
+3
+400
+35
+400 35
+1
+St. Thomas Aquinas
+Espana
+4
+400
+35
+400 35
